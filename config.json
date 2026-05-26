@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperptringify",
+        "uuid": 6460212,
+        "checksum": "xmrysc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
